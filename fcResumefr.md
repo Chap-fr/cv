@@ -4,7 +4,7 @@ Développeur Full Stack | React | .NET | TypeScript
 📍 7 rue soleillet, 75020 Paris  
 📱 06 64 84 09 02  
 📧 francoischpn@gmail.com  
-🔗 [Profil LinkedIn](votre-url-linkedin-ici)
+🔗 [Profil LinkedIn]((https://www.linkedin.com/in/fran%C3%A7ois-chapon-2ba563135/))
 
 ## Résumé Professionnel
 Développeur full stack expérimenté, spécialisé dans la création d'applications web performantes. Compétent en React, .NET et TypeScript, passionné par les défis techniques et la livraison de solutions efficaces.
