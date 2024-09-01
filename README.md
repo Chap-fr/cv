@@ -2,7 +2,7 @@
 
 Welcome to my GitHub resume repository. 
 
-You can view my full resume here: [Resume](fcResume.md)
+You can view my full resume here: [English](fcResume.md) [French](fcResumefr.md)
 
 ## Contact Information
 
